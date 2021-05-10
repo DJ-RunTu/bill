@@ -1,0 +1,14 @@
+# idea ignore
+.idea/
+*.iml
+
+# eclipse ignore
+.settings
+.classpath
+.project
+
+# maven ignore
+**/target/**
+
+# jrebel ignore
+**/*rebel.xml
